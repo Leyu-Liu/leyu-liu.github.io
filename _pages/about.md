@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am passionate about various aspects of theoretical and computational heterogeneous catalysis, with a specific commitment to unraveling reaction mechanisms, establishing structure-performance relationships, and facilitating the rational design of efficient catalysts. 
-My current research primarily focuses on the theoretical modeling of elementary steps in electrochemical reactions, such as CO2 reduction reaction (CO2RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to delve into these intricate processes, and I place a particular emphasis on understanding their electron transfer kinetics under electrochemical conditions.
+I have a deep passion for various aspects of theoretical and computational heterogeneous catalysis, focusing on uncovering reaction mechanisms, establishing structure-performance relationships, and contributing to the rational design of efficient catalysts. 
+My current research primarily centers around the theoretical modeling of elementary steps in electrochemical reactions, including the CO2 reduction reaction (CO2RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to explore these intricate processes, with a specific emphasis on understanding their electron transfer kinetics under electrochemical conditions.
 
-Additionally, I am interested in exploring the effects of catalyst restructuring and the states of intermediate species (coverages or adsorption sites) on reaction activity and selectivity using constant-potential ab initio molecular dynamics, global optimization algorithms, and chemical bonding analysis.
+Furthermore, I am intrigued by the impact of catalyst restructuring and the interfacial microenvironment (surface coverages, adsorption sites or electrolyte effects) on reaction activity and selectivity. I utilize constant-potential ab initio molecular dynamics, global optimization algorithms, and chemical bonding analysis to delve into these aspects.
 
-I am also enthusiastic about the application of machine learning potentials to accelerate ab initio molecular dynamics and try to contribute to the field of AI for scientific research (AI4science).
+In addition to my research, I am enthusiastic about the application of machine learning potentials to accelerate ab initio molecular dynamics, especially for realistic modeling of electrochemical interface.
 
+I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoctoral position.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Ku9kOlYAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+ (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Ku9kOlYAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
