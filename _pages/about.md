@@ -19,12 +19,13 @@ redirect_from:
 
 I am passionate about various aspects of theoretical and computational heterogeneous catalysis, with a specific commitment to unraveling reaction mechanisms, establishing structure-performance relationships, and facilitating the rational design of efficient catalysts. 
 My current research primarily focuses on the theoretical modeling of elementary steps in electrochemical reactions, such as CO2 reduction reaction (CO2RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to delve into these intricate processes, and I place a particular emphasis on understanding their electron transfer kinetics under electrochemical conditions.
+
 Additionally, I am interested in exploring the effects of catalyst restructuring and the states of intermediate species (coverages or adsorption sites) on reaction activity and selectivity using constant-potential ab initio molecular dynamics, global optimization algorithms, and chemical bonding analysis.
+
 I am also enthusiastic about the application of machine learning potentials to accelerate ab initio molecular dynamics and try to contribute to the field of AI for scientific research (AI4science).
-![image](https://github.com/Leyu-Liu/leyu-homepage/assets/54838707/df1b9655-f374-4007-a1dd-6416960d3d60)
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Ku9kOlYAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
