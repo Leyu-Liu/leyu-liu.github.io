@@ -40,7 +40,7 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 <div class='paper-box-text' markdown="1">
 
 -	`Leyu Liu`, Hai Xiao. Inverted Region in Electrochemical Reduction of CO2 Induced by Potential-Dependent Pauli Repulsion. *J. Am. Chem. Soc.* 2023, 145, 26, 14267–14275.  
-[[网页]](https://pubs.acs.org/doi/abs/10.1021/jacs.3c02447) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[网页]](https://pubs.acs.org/doi/abs/10.1021/jacs.3c02447) [[预览]](https://github.com/Leyu-Liu/leyu-homepage/blob/main/pdf/jacs.3c02447.pdf) [[下载]](https://github.com/Leyu-Liu/leyu-homepage/blob/main/pdf/jacs.3c02447.pdf)
 
 </div>
 </div>
