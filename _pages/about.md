@@ -37,7 +37,7 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 
 ### 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/jacs2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/jacs2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Leyu Liu`, Hai Xiao, Gongzhe Qiu, Yu Hu, Yihua Kang. Inverted Region in Electrochemical Reduction of CO2 Induced by Potential-Dependent Pauli Repulsion. *J. Am. Chem. Soc.* 2023, 145, 26, 14267–14275.  
