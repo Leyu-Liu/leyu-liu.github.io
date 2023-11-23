@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About me
 I have a deep passion for various aspects of theoretical and computational heterogeneous catalysis, focusing on uncovering reaction mechanisms, establishing structure-performance relationships, and contributing to the rational design of efficient catalysts. 
 My current research primarily centers around the theoretical modeling of elementary steps in electrochemical reactions, including the CO2 reduction reaction (CO2RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to explore these intricate processes, with a specific emphasis on understanding their electron transfer kinetics under electrochemical conditions.
 
