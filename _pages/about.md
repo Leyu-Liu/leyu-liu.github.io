@@ -41,7 +41,7 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 <div class='paper-box-text' markdown="1">
 
 -	`Leyu Liu`, Hai Xiao. Inverted Region in Electrochemical Reduction of CO2 Induced by Potential-Dependent Pauli Repulsion. *J. Am. Chem. Soc.* 2023, 145, 26, 14267–14275.  
-[[HTML]](https://pubs.acs.org/doi/abs/10.1021/jacs.3c02447) [[PDF]](../pdf/jacs.3c02447.pdf){:target="_blank"} [[POSTER]](../pdf/jacs.3c02447.pdf){:target="_blank"}
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/jacs.3c02447) [[PDF]](../pdf/jacs.3c02447.pdf){:target="_blank"} [[POSTER]](../pdf/POSTER.pdf){:target="_blank"}
 
 </div>
 </div>
