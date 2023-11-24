@@ -27,17 +27,13 @@ In addition to my research, I am enthusiastic about the application of machine l
 
 I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoctoral position.
 
- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Ku9kOlYAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
---- 
- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Ku9kOlYAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+ You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Ku9kOlYAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2023</div><img src='images/jacs2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,14 +55,14 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Commun. 2022</div><img src='images/NC2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Sun, K.; Wu, X.; Zhuang, Z.; `Liu, L.`; Fang, J.; Zeng, L.; Ma, J.; Liu, S.; Li, J.; Dai, R.; Tan, X.; Yu, K.; Liu, D.; Cheong, W.-C.; Huang, A.; Liu, Y.; Pan, Y.; Xiao, H.; Chen, C. Interfacial Water Engineering Boosts Neutral Water Reduction. Nat. Commun. 2022, 13 (1), 6260.  
+-	Sun, K.; Wu, X.; Zhuang, Z.; `Liu, L.`; Fang, J.; Zeng, L.; Ma, J.; Liu, S.; Li, J.; Dai, R.; Tan, X.; Yu, K.; Liu, D.; Cheong, W.-C.; Huang, A.; Liu, Y.; Pan, Y.; Xiao, H.; Chen, C. Interfacial Water Engineering Boosts Neutral Water Reduction. *Nat. Commun.* 2022, 13(1), 6260.  
 [[HTML]](https://www.nature.com/articles/s41467-022-33984-5) [[PDF]](../pdf/NC2022.pdf){:target="_blank"}
 
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* Excellent Oral Presentation Award in the 727th THU Doctoral Academic Forum. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
