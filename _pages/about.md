@@ -46,12 +46,12 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/NC2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Sun, K.; Wu, X.; Zhuang, Z.; `Liu, L.`; Fang, J.; Zeng, L.; Ma, J.; Liu, S.; Li, J.; Dai, R.; Tan, X.; Yu, K.; Liu, D.; Cheong, W.-C.; Huang, A.; Liu, Y.; Pan, Y.; Xiao, H.; Chen, C. Interfacial Water Engineering Boosts Neutral Water Reduction. Nat Commun 2022, 13 (1), 6260.
   
-[[HTML]](https://www.nature.com/articles/s41467-022-33984-5) [[PDF]](../pdf/jacs.3c02447.pdf){:target="_blank"}
+[[HTML]](https://www.nature.com/articles/s41467-022-33984-5) [[PDF]](../pdf/NC2022.pdf){:target="_blank"}
 
 </div>
 </div>
