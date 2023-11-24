@@ -36,6 +36,8 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 
 # 📝 Publications 
 --- 
+ (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Ku9kOlYAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2023</div><img src='images/jacs2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,7 +47,7 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2023</div><img src='images/ACScatalysis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Catal. 2023</div><img src='images/ACScatalysis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Qikai Shen, Hanwen Yang, Kaiyue Zhao, `Leyu Liu`, Qiwen Sun, Xiaoxia Chang, Hai Xiao, and Bingjun Xu. Unraveling Intrinsic Electronic Factors in Thermocatalytic (Hemi-)Hydrogenation of Ethylene and Acetylene with Electric Polarization. *ACS Catal.* 2023, 13(22), 14570-14579.  
