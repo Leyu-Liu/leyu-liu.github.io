@@ -35,13 +35,21 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
----
+--- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2023</div><img src='images/jacs2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Leyu Liu`, Hai Xiao. Inverted Region in Electrochemical Reduction of CO2 Induced by Potential-Dependent Pauli Repulsion. *J. Am. Chem. Soc.* 2023, 145, 26, 14267–14275.  
 [[HTML]](https://pubs.acs.org/doi/abs/10.1021/jacs.3c02447) [[PDF]](../pdf/jacs.3c02447.pdf){:target="_blank"} [[POSTER]](../pdf/POSTER.pdf){:target="_blank"}
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2023</div><img src='images/ACScatalysis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Qikai Shen, Hanwen Yang, Kaiyue Zhao, `Leyu Liu`, Qiwen Sun, Xiaoxia Chang, Hai Xiao, and Bingjun Xu. Unraveling Intrinsic Electronic Factors in Thermocatalytic (Hemi-)Hydrogenation of Ethylene and Acetylene with Electric Polarization. *ACS Catal.* 2023, 13(22), 14570-14579.  
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/acscatal.3c04258) [[PDF]](../pdf/shen-et-al-2023-unraveling-intrinsic-electronic-factors-in-thermocatalytic-(hemi-)hydrogenation-of-ethylene-and.pdf){:target="_blank"} 
 
 </div>
 </div>
@@ -54,11 +62,6 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 
 </div>
 </div>
-
-
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
