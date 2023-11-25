@@ -20,10 +20,10 @@ redirect_from:
 # About me
 Hello and welcome to my homepage!
 
-I am Leyu Liu (刘乐雨), a 5th year Ph.D. Candidate in Chemistry at Tsinghua University (THU), Beijing, advised by Prof. [Hai Xiao](https://xiaogroup-tsinghua.github.io/) & Prof. [Jun Li](http://www.junlilab.org/index.html). 
+I am Leyu Liu (刘乐雨), a 5th year Ph.D. Candidate in [Chemistry](https://www.chem.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) (THU), Beijing, advised by Prof. [Hai Xiao](https://xiaogroup-tsinghua.github.io/) & Prof. [Jun Li](http://www.junlilab.org/index.html). 
 
 I have a deep passion for various aspects of theoretical and computational heterogeneous catalysis, focusing on uncovering reaction mechanisms, establishing structure-performance relationships, and contributing to the rational design of efficient catalysts. 
-My current research primarily centers around the theoretical modeling of elementary steps in electrochemical reactions, including the CO2 reduction reaction (CO2RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to explore these intricate processes, with a specific emphasis on understanding their electron transfer kinetics under electrochemical conditions.
+My current research primarily centers around the theoretical modeling of elementary steps in electrochemical reactions, including the CO<sub>2</sub> reduction reaction (CO<sub>2</sub>RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to explore these intricate processes, with a specific emphasis on understanding their electron transfer kinetics under electrochemical conditions.
 
 Furthermore, I am intrigued by the impact of catalyst restructuring and the interfacial microenvironment (surface coverages, adsorption sites or electrolyte effects) on reaction activity and selectivity. I utilize constant-potential ab initio molecular dynamics, global optimization algorithms, and chemical bonding analysis to delve into these aspects.
 
@@ -41,7 +41,7 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Am. Chem. Soc. 2023</div><img src='images/jacs2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Leyu Liu`, Hai Xiao. Inverted Region in Electrochemical Reduction of CO2 Induced by Potential-Dependent Pauli Repulsion. *J. Am. Chem. Soc.* 2023, 145, 26, 14267–14275.  
+-	`Leyu Liu`, Hai Xiao. Inverted Region in Electrochemical Reduction of CO<sub>2</sub> Induced by Potential-Dependent Pauli Repulsion. *J. Am. Chem. Soc.* 2023, 145, 26, 14267–14275.  
 [[HTML]](https://pubs.acs.org/doi/abs/10.1021/jacs.3c02447) [[PDF]](../pdf/jacs.3c02447.pdf){:target="_blank"} [[POSTER]](../pdf/POSTER.pdf){:target="_blank"}
 
 </div>
@@ -66,7 +66,7 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 </div>
 
 # 🎖 Honors and Awards
-- *2023.11* Excellent Oral Presentation Award in the 727th THU Doctoral Academic Forum. 
+- *2023.11* Excellent Oral Presentation Award in the 727<sup>2</sup> THU Doctoral Academic Forum. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
