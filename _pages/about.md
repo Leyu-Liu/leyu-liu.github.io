@@ -20,7 +20,7 @@ redirect_from:
 # About me
 Hello and welcome to my homepage!
 
-I am Leyu Liu (刘乐雨), a 5th year Ph.D. Candidate in [Chemistry](https://www.chem.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) (THU), Beijing, advised by Prof. [Hai Xiao](https://xiaogroup-tsinghua.github.io/) & Prof. [Jun Li](http://www.junlilab.org/index.html). 
+I am Leyu Liu (刘乐雨), a 5<sup>th</sup> year Ph.D. Candidate in [Chemistry](https://www.chem.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) (THU), Beijing, advised by Prof. [Hai Xiao](https://xiaogroup-tsinghua.github.io/) & Prof. [Jun Li](http://www.junlilab.org/index.html). 
 
 I have a deep passion for various aspects of theoretical and computational heterogeneous catalysis, focusing on uncovering reaction mechanisms, establishing structure-performance relationships, and contributing to the rational design of efficient catalysts. 
 My current research primarily centers around the theoretical modeling of elementary steps in electrochemical reactions, including the CO<sub>2</sub> reduction reaction (CO<sub>2</sub>RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to explore these intricate processes, with a specific emphasis on understanding their electron transfer kinetics under electrochemical conditions.
@@ -66,7 +66,7 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 </div>
 
 # 🎖 Honors and Awards
-- *2023.11* Excellent Oral Presentation Award in the 727<sup>2</sup> THU Doctoral Academic Forum. 
+- *2023.11* Excellent Oral Presentation Award in the 727<sup>th</sup> THU Doctoral Academic Forum. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
