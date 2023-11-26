@@ -1,4 +1,4 @@
----
+![image](https://github.com/Leyu-Liu/Leyu-Liu.github.io/assets/54838707/268201ca-689f-4eb6-ac99-fa60d1535327)![image](https://github.com/Leyu-Liu/Leyu-Liu.github.io/assets/54838707/422de89b-77b2-43ee-bba8-7afa399f2a60)![image](https://github.com/Leyu-Liu/Leyu-Liu.github.io/assets/54838707/76134b17-3332-41d9-a3af-2b3f191d75fd)---
 permalink: /
 title: ""
 excerpt: ""
@@ -22,7 +22,7 @@ Hello and welcome to my homepage!
 
 I am Leyu Liu (刘乐雨), a 5<sup>th</sup> year Ph.D. Candidate in [Chemistry](https://www.chem.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) (THU), Beijing, advised by Prof. [Hai Xiao](https://xiaogroup-tsinghua.github.io/) & Prof. [Jun Li](http://www.junlilab.org/index.html). 
 
-I have a deep passion for various aspects of theoretical and computational heterogeneous catalysis, focusing on uncovering reaction mechanisms, establishing structure-performance relationships, and contributing to the rational design of efficient catalysts. 
+I have a deep passion for various aspects of theoretical and computational heterogeneous catalysis, including uncovering reaction mechanisms, establishing structure-performance relationships, and contributing to the rational design of efficient catalysts. 
 My current research primarily centers around the theoretical modeling of elementary steps in electrochemical reactions, including the CO<sub>2</sub> reduction reaction (CO<sub>2</sub>RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to explore these intricate processes, with a specific emphasis on understanding their electron transfer kinetics under electrochemical conditions.
 
 Furthermore, I am intrigued by the impact of catalyst restructuring and the interfacial microenvironment (surface coverages, adsorption sites or electrolyte effects) on reaction activity and selectivity. I utilize constant-potential ab initio molecular dynamics, global optimization algorithms, and chemical bonding analysis to delve into these aspects.
@@ -66,16 +66,14 @@ I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoct
 </div>
 
 # 🎖 Honors and Awards
-- *2023.11* Excellent Oral Presentation Award in the 727<sup>th</sup> THU Doctoral Academic Forum. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* Excellent Oral Presentation Award in the 727<sup>th</sup> THU Doctoral Academic Forum.
+- *2023.11* Shimadzu Academic Scholarship, THU.
+- *2023.10* Friends of Tsinghua-Gao Yingshi Scholarship, THU.
+- *2021.12* Social Work Excellence Award, THU.
+- *2019.06* Outstanding Graduates, XMU.
+- *2016, 2017, 2018* Excellent Academic Scholarship, XMU.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.09 - now*, Tsinghua University (THU), Ph. D. Candidate in Chemistry, Theoretical & Computational.
+- *2015.09 - 2019.06*, Xiamen University (XMU), B.Eng. in Materials Science and Engineering.
