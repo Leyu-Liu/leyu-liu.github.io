@@ -32,7 +32,7 @@ In addition to my research, I am enthusiastic about the application of machine l
 I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoctoral position.
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 Leyu gave an oral presentation at the 727<sup>th</sup> THU Doctoral Academic Forum ([live pictures](../images/Talk.jpg)). 
+- *2023.11*: &nbsp;🎉🎉 Leyu gave an oral presentation at the 727<sup>th</sup> THU Doctoral Academic Forum ([live picture](../images/Talk.jpg)).
 - *2023.05*: &nbsp;🎉🎉 a first-author theoretical paper got accepted by JACS! 
 
 # 📝 Publications 
