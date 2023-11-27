@@ -29,7 +29,7 @@ Furthermore, I am intrigued by the impact of catalyst restructuring and the inte
 
 In addition to my research, I am enthusiastic about the application of machine learning potentials to accelerate ab initio molecular dynamics, especially for realistic modeling of electrochemical interface.
 
-I anticipate graduating with my Ph.D. in 2024 and am actively seeking a postdoctoral position.
+I am actively seeking a postdoctoral position, anticipating the completion of my Ph.D. in 2024.
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 Leyu gave an oral presentation at the 727<sup>th</sup> THU Doctoral Academic Forum ([live picture](../images/Talk.jpg)).
