@@ -20,7 +20,7 @@ redirect_from:
 # About me
 Hello and welcome to my homepage!
 
-I am Leyu Liu (刘乐雨), a 5<sup>th</sup> year Ph.D. Candidate in [Chemistry](https://www.chem.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) (THU), Beijing, advised by Prof. [Hai Xiao](https://xiaogroup-tsinghua.github.io/) & Prof. [Jun Li](http://www.junlilab.org/index.html). 
+I am Leyu Liu (刘乐雨), a Ph.D. in [Chemistry](https://www.chem.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) (THU), Beijing, advised by Prof. [Hai Xiao](https://xiaogroup-tsinghua.github.io/) & Prof. [Jun Li](http://www.junlilab.org/index.html). 
 
 I have a deep passion for various aspects of theoretical and computational heterogeneous catalysis, including uncovering reaction mechanisms, establishing structure-performance relationships, and contributing to the rational design of efficient catalysts. 
 My current research primarily centers around the theoretical modeling of elementary steps in electrochemical reactions, including the CO<sub>2</sub> reduction reaction (CO<sub>2</sub>RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to explore these intricate processes, with a specific emphasis on understanding their electron transfer kinetics under electrochemical conditions.
@@ -29,7 +29,7 @@ Furthermore, I am intrigued by the impact of catalyst restructuring and the inte
 
 In addition to my research, I am enthusiastic about the application of machine learning potentials to accelerate ab initio molecular dynamics, especially for realistic modeling of electrochemical interface.
 
-I am actively seeking a postdoctoral position, anticipating the completion of my Ph.D. in 2024.
+I am actively seeking a postdoctoral position after the completion of my Ph.D. in 2024.
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 Leyu gave an oral presentation at the 727<sup>th</sup> THU Doctoral Academic Forum (live pictures:[1](../images/1.jpg),[2](../images/oralpre.jpg)).
