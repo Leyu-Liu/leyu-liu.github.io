@@ -33,7 +33,7 @@ I am actively seeking a postdoctoral position after the completion of my Ph.D. i
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Leyu successfully graduated with a Ph.D. and was awarded the Outstanding Doctoral Dissertation Award of Tsinghua University. (live pictures:[1](../images/graduation.jpg),[2](../images/award.jpg)).
-- *2023.11*: &nbsp;🎉🎉 Leyu gave an oral presentation at the 727<sup>th</sup> THU Doctoral Academic Forum (live pictures:[1](../images/1.jpg),[2](../images/oralpre.jpg)).
+- *2023.11*: &nbsp;🎉🎉 Leyu gave an oral presentation at the 727<sup>th</sup> THU Doctoral Academic Forum (live pictures:[1](../images/oralpre.jpg)).
 - *2023.05*: &nbsp;🎉🎉 a first-author theoretical paper got accepted by JACS! 
 
 # 📝 Publications 
