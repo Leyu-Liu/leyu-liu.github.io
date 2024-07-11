@@ -20,7 +20,7 @@ redirect_from:
 # About me
 Hello and welcome to my homepage!
 
-I am Leyu Liu (刘乐雨), a Ph.D. in [Chemistry](https://www.chem.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) (THU), Beijing, advised by Prof. [Hai Xiao](https://xiaogroup-tsinghua.github.io/) & Prof. [Jun Li](http://www.junlilab.org/index.html). 
+I am Leyu Liu (刘乐雨), Ph.D. in [Chemistry](https://www.chem.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) (THU), Beijing, advised by Prof. [Hai Xiao](https://xiaogroup-tsinghua.github.io/) & Prof. [Jun Li](http://www.junlilab.org/index.html). 
 
 I have a deep passion for various aspects of theoretical and computational heterogeneous catalysis, including uncovering reaction mechanisms, establishing structure-performance relationships, and contributing to the rational design of efficient catalysts. 
 My current research primarily centers around the theoretical modeling of elementary steps in electrochemical reactions, including the CO<sub>2</sub> reduction reaction (CO<sub>2</sub>RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to explore these intricate processes, with a specific emphasis on understanding their electron transfer kinetics under electrochemical conditions.
@@ -32,6 +32,7 @@ In addition to my research, I am enthusiastic about the application of machine l
 I am actively seeking a postdoctoral position after the completion of my Ph.D. in 2024.
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Leyu successfully graduated with a Ph.D. and was awarded the Outstanding Doctoral Dissertation Award of Tsinghua University. (live pictures:[1](../images/graduation.jpg),[2](../images/award.jpg)).
 - *2023.11*: &nbsp;🎉🎉 Leyu gave an oral presentation at the 727<sup>th</sup> THU Doctoral Academic Forum (live pictures:[1](../images/1.jpg),[2](../images/oralpre.jpg)).
 - *2023.05*: &nbsp;🎉🎉 a first-author theoretical paper got accepted by JACS! 
 
@@ -66,6 +67,7 @@ I am actively seeking a postdoctoral position after the completion of my Ph.D. i
 </div>
 
 # 🎖 Honors and Awards
+- *2024.06* The Outstanding Doctoral Dissertation Award, THU.
 - *2023.11* Excellent Oral Presentation Award in the 727<sup>th</sup> THU Doctoral Academic Forum.
 - *2023.11* Shimadzu Academic Scholarship, THU.
 - *2023.10* Friends of Tsinghua-Gao Yingshi Scholarship, THU.
@@ -75,5 +77,5 @@ I am actively seeking a postdoctoral position after the completion of my Ph.D. i
 
 
 # 📖 Educations
-- *2019.09 - now*, Tsinghua University (THU), Ph. D. Candidate in Chemistry, Theoretical & Computational.
+- *2019.09 - 2024.06*, Tsinghua University (THU), Ph. D. in Chemistry, Theoretical & Computational.
 - *2015.09 - 2019.06*, Xiamen University (XMU), B.Eng. in Materials Science and Engineering.
