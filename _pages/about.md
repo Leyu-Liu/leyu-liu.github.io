@@ -29,7 +29,6 @@ Furthermore, I am intrigued by the impact of catalyst restructuring and the inte
 
 In addition to my research, I am enthusiastic about the application of machine learning potentials to accelerate ab initio molecular dynamics, especially for realistic modeling of electrochemical interface.
 
-I am actively seeking a postdoctoral position after the completion of my Ph.D. in 2024.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 Leyu successfully graduated with a Ph.D. and was awarded the Outstanding Doctoral Dissertation Award of Tsinghua University. (live pictures:[1](../images/graduation.jpg),[2](../images/award.jpg)).
