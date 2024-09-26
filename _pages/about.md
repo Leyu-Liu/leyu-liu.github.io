@@ -25,7 +25,7 @@ I am Leyu Liu (刘乐雨), Ph.D. in [Chemistry](https://www.chem.tsinghua.edu.cn
 I have a deep passion for various aspects of theoretical and computational heterogeneous catalysis, including uncovering reaction mechanisms, establishing structure-performance relationships, and contributing to the rational design of efficient catalysts. 
 My current research primarily centers around the theoretical modeling of elementary steps in electrochemical reactions, including the CO<sub>2</sub> reduction reaction (CO<sub>2</sub>RR), hydrogen evolution reaction (HER), and nitrogen reduction reaction (NRR). I employ grand-canonical Density Functional Theory (GC-DFT) methods to explore these intricate processes, with a specific emphasis on understanding their electron transfer kinetics under electrochemical conditions.
 
-Furthermore, I am intrigued by the impact of catalyst restructuring and the interfacial microenvironment (surface coverages, adsorption sites or electrolyte effects) on reaction activity and selectivity. I utilize constant-potential ab initio molecular dynamics, global optimization algorithms, and chemical bonding analysis to delve into these aspects.
+Furthermore, I am intrigued by the impact of catalyst restructuring and the interfacial microenvironment (surface coverages or electrolyte effects) on reaction activity and selectivity. I utilize constant-potential ab initio molecular dynamics, global optimization algorithms, and chemical bonding analysis to delve into these aspects.
 
 In addition to my research, I am enthusiastic about the application of machine learning potentials to accelerate ab initio molecular dynamics, especially for realistic modeling of electrochemical interface.
 
