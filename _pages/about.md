@@ -42,7 +42,7 @@ In addition to my research, I am enthusiastic about the application of machine l
 <div class='paper-box-text' markdown="1">
 
 -	`Leyu Liu`, Hai Xiao. Inverted Region in Electrochemical Reduction of CO<sub>2</sub> Induced by Potential-Dependent Pauli Repulsion. *J. Am. Chem. Soc.* 2023, 145, 26, 14267–14275.  
-[[HTML]](https://pubs.acs.org/doi/abs/10.1021/jacs.3c02447) [[PDF]](../pdf/jacs.3c02447.pdf){:target="_blank"} [[POSTER]](../pdf/POSTER.pdf){:target="_blank"}
+[[HTML]](https://pubs.acs.org/doi/abs/10.1021/jacs.3c02447) [[PDF]](../pdf/jacs.3c02447.pdf){:target="_blank"} [[POSTER]](../pdf/POSTER-ISTCP.pdf){:target="_blank"}
 
 </div>
 </div>
