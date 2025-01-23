@@ -27,7 +27,6 @@ My current research primarily centers around the theoretical modeling of element
 
 Furthermore, I am intrigued by the impact of catalyst restructuring and the interfacial microenvironment (surface coverages or electrolyte effects) on reaction activity and selectivity. I utilize constant-potential ab initio molecular dynamics, global optimization algorithms, and chemical bonding analysis to delve into these aspects.
 
-In addition to my research, I am enthusiastic about the application of machine learning potentials to accelerate ab initio molecular dynamics, especially for realistic modeling of electrochemical interface.
 
 
 # 🔥 News
